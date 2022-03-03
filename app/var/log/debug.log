@@ -1,0 +1,101 @@
+2022/02/15 07-39-08Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-45-39Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-45-39Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-45-55Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-46-04Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-46-16Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-46-19Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07-46-22Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2022/02/15 07:48:48INSERT INTO user (name,last_name,email,password,phone,city_id)
+             VALUES ("labas","nulabas","mail@mail.com","25f9e794323b453885f5181f1b624d0b","+123456","1")
+2022/02/15 07:51:54INSERT INTO user (name,last_name,email,password,phone,city_id)
+             VALUES ("labas","nulabas","mail@mail.com","25f9e794323b453885f5181f1b624d0b","+123456","1")
+2022/02/15 07:57:49INSERT INTO user (name,last_name,email,password,phone,city_id)
+             VALUES ("labas","nulabas","mail@mail.com","25f9e794323b453885f5181f1b624d0b","+123456","1")
+2022/02/15 20:00:49 INSERT INTO user (name,last_name,email,password,phone,city_id)
+             VALUES ("kada","kur","mail@mail.com","25f9e794323b453885f5181f1b624d0b","+13654895","4")
+2022/02/15 20:27:16 INSERT INTO user (name,last_name,email,password,phone,city_id)
+             VALUES ("kada","kur","mail@mail.com","25f9e794323b453885f5181f1b624d0b","+13654895","4")
+2022/02/15 20:30:30 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("kada","kur","mail@mail.com","25f9e794323b453885f5181f1b624d0b","+13654895","4")
+2022/02/15 20:34:15 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("tada","dam","mail@mmail.lt","83b4ef5ae4bb360c96628aecda974200","+45698741","3")
+2022/02/15 20:44:31 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","","1","1","","","1","","","1","77")
+2022/02/15 20:50:56 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","","1","1","","","1","","","1","88")
+2022/02/15 22:05:21 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("ahahaha","blablba","mmmail@mail.com","25f9e794323b453885f5181f1b624d0b","+1223456","1")
+2022/02/15 22:11:32 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("bulka","Kurias Vaziuoja","1","1","600","2000","1","16","https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.15min.lt%2Fgazas%2Fnaujiena%2Fautorinka%2Frenkame-lietuvos-simtmecio-automobili-audi-80-b4-220-1062786&psig=AOvVaw3uOOo63ZxbRkXOzZt1jJgw&ust=1645042277620000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCICLnpbCgvYCFQAAAAAdAAAAABAE","1","bulka")
+2022/02/15 22:21:30 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("Bulka","Kurias, vaziuoja","1","1","","2000","1","16","https://s1.15min.lt/images/photos/2015/07/13/original/audi-rs2-1993-m-55a398744ac4b.jpg","1","bulka")
+2022/02/16 18:27:14 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","","1","1","","","1","16","","1","9")
+2022/02/16 18:29:02 Connection failed: SQLSTATE[HY000] [2002] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022/02/16 18:29:28 Connection failed: SQLSTATE[HY000] [2002] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022/02/16 18:37:19 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("mark2","mark","mark2@gmail.com","83b4ef5ae4bb360c96628aecda974200","+123456789","1")
+2022/02/16 18:41:33 Connection failed: SQLSTATE[HY000] [2002] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022/02/16 18:47:05 Connection failed: SQLSTATE[HY000] [2002] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022/02/16 18:54:32 Connection failed: SQLSTATE[HY000] [2002] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022/02/16 18:58:16 Connection failed: SQLSTATE[HY000] [2002] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022/02/16 19:02:25 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","Aprasymas","1","1","","","1","17","","1","80")
+2022/02/16 19:02:43 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","Aprasymas","1","1","","","1","17","https://img.longo.group/drz5zvoaf/image/upload/c_fill,f_jpg,h_240,w_320/w1okvjf4vdxfozpe2iv4.jpg","1","94")
+2022/02/16 19:09:45 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:09:49 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:09:57 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:11:46 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:11:53 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:26:39 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:26:56 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:36:09 Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2022/02/16 19:41:12 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("Skoda","Pilka","1","1","1200","2000","1","17","https://upload.wikimedia.org/wikipedia/commons/d/d7/2019_Skoda_Superb_SE_L_Executive_TDi_2.0_Front.jpg","1","skoda")
+2022/02/16 20:57:02 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("Skoda","Vaziuoja","1","1","1200","2000","1","17","https://autoplius-img.dgn.lt/ann_25_211574780/skoda-octavia-2-0-l-hecbekas-2015-dyzelinas-0.jpg","1","skoda")
+2022/02/16 21:03:41 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","Aprasymas","1","1","","","1","17","https://autoplius-img.dgn.lt/ann_2_211574780/skoda-octavia-2-0-l-hecbekas-2015-dyzelinas-0.jpg","1","22")
+2022/02/16 21:23:44 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug)
+             VALUES ("","Aprasymas","1","1","","","1","17","https://autoplius-img.dgn.lt/ann_2_211574780/skoda-octavia-2-0-l-hecbekas-2015-dyzelinas-0.jpg","1","77")
+2022/03/03 18:54:39 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("as","belekas","mail@mail.com","e10adc3949ba59abbe56e057f20f883e","+3706548972","3")
+2022/03/03 18:55:35 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("labas","belekas","mail@mail.com","e10adc3949ba59abbe56e057f20f883e","+3706548972","1")
+2022/03/03 19:04:44 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("tada","belekas","mail@mail.com","e10adc3949ba59abbe56e057f20f883e","+3706548972","1")
+2022/03/03 19:09:30 INSERT INTO users (name,last_name,email,password,phone,city_id)
+             VALUES ("labas","belekas","mail@mail.com","e10adc3949ba59abbe56e057f20f883e","+123456","1")
+2022/03/03 19:16:20 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug,views)
+             VALUES ("afa","saegs","1","1","1200","2000","1","24","https://mediaservice.audi.com/media/live/50900/fly1400x601n1/8wc/2021.png?wid=850","1","afa","")
+2022/03/03 19:25:37 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug,views)
+             VALUES ("asasa","sdvsd","1","1","1200","2000","1","24","https://kaunas.kasvyksta.lt/wp-content/uploads/2021/03/9461209.jpg","1","asasa","")
+2022/03/03 19:27:41 UPDATE ads SET title = 'asasa',description = 'sdvsd',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://kaunas.kasvyksta.lt/wp-content/uploads/2021/03/9461209.jpg',active = '1',slug = 'asasa',views = '1' WHERE id="22"
+2022/03/03 19:29:06 UPDATE ads SET title = 'asasa',description = 'sdvsd',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://kaunas.kasvyksta.lt/wp-content/uploads/2021/03/9461209.jpg',active = '1',slug = 'asasa',views = '2' WHERE id="22"
+2022/03/03 19:30:28 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug,views)
+             VALUES ("asasasas","sdgsdg","1","1","1200","2000","1","24","https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg","1","asasasas","")
+2022/03/03 19:32:48 INSERT INTO ads (title,description,manufacturer_id,model_id,price,year,type_id,user_id,image,active,slug,views)
+             VALUES ("asasasas","sdgsdg","1","1","1200","2000","1","24","https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg","1","asasasas49","")
+2022/03/03 19:32:55 UPDATE ads SET title = 'asasasas',description = 'sdgsdg',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg',active = '1',slug = 'asasasas49',views = '1' WHERE id="24"
+2022/03/03 19:33:01 UPDATE ads SET title = 'asasasas',description = 'sdgsdg',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg',active = '1',slug = 'asasasas',views = '1' WHERE id="23"
+2022/03/03 19:33:08 UPDATE ads SET title = 'afa',description = 'saegs',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://mediaservice.audi.com/media/live/50900/fly1400x601n1/8wc/2021.png?wid=850',active = '1',slug = '0',views = '1' WHERE id="21"
+2022/03/03 19:33:19 UPDATE ads SET title = 'asasasas',description = 'sdgsdg',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg',active = '1',slug = 'asasasas',views = '2' WHERE id="23"
+2022/03/03 19:33:23 UPDATE ads SET title = 'asasasas',description = 'sdgsdg',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg',active = '1',slug = 'asasasas49',views = '2' WHERE id="24"
+2022/03/03 19:37:26 UPDATE ads SET title = 'asasasas',description = 'sdgsdg',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://autoplius-img.dgn.lt/nac_3_9279/nuotrauka.jpg',active = '1',slug = 'asasasas49',views = '3' WHERE id="24"
+2022/03/03 19:49:29 UPDATE ads SET title = 'afa',description = 'saegs',manufacturer_id = '1',model_id = '1',price = '1200',year = '2000',type_id = '1',user_id = '24',image = 'https://mediaservice.audi.com/media/live/50900/fly1400x601n1/8wc/2021.png?wid=850',active = '1',slug = '0',views = '2' WHERE id="21"

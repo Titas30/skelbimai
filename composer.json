@@ -1,0 +1,19 @@
+{
+    "name": "titas/skelbimai",
+    "description": "Kitas skelbimu projektas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "app/code"
+        }
+    },
+    "authors": [
+        {
+    
+            "name": "Titas30",
+            "email": "titas.ab109@gmail.com"
+        }
+    ],
+    "require": {}
+
+}
